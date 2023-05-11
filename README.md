@@ -1,4 +1,4 @@
-### Welcome :wave:
+## Welcome :wave:
 **Braden Riggs, Developer Advocate @ Dolby.io**
 <div id="social" align="center">
   <a href="https://www.linkedin.com/in/bradenriggs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@bradenriggs on LinkedIn"/></a>

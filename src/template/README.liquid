@@ -1,0 +1,27 @@
+<h1> Hello World <h1>
+
+{% include 'contact' %}
+
+# Gallery
+{% include 'gallery' %}
+
+# Learn
+{% include 'writing' %}
+
+# Community
+{% include 'influence' %}
+
+<div>&nbsp;</div>
+
+# Statistics
+<details>
+  <summary>Statistics</summary>
+  <div>&nbsp;</div>
+  <div>
+    <p>Repos: {{ public_repos }}</p>
+    <p>Followers: {{ follower_count }}</p>
+    <p>Stargazers: {{ stargazer_count }}</p>
+    <p>Supporters: {{ supporter_count }}</p>
+    <p>Unique Views (week): {{ profile_traffic }}</p>
+  </div>
+</details>
