@@ -39,6 +39,7 @@ jobs:
       - name: Commit change
         if: env.README_CHANGED != 0
         run: |-
+          git update-index --chmod=+x ./src/app.ts
           git config user.name "GitHub Action: ${{ github.workflow }} #${{ github.run_number }}"
           git config user.email "<>"
           git add README.md
