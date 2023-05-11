@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j12y/j12y.git"
+    "url": "git+https://github.com/briggs599/briggs599.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/j12y/j12y/issues"
+    "url": "https://github.com/briggs599/briggs599/issues"
   },
-  "homepage": "https://github.com/j12y/j12y#readme",
+  "homepage": "https://github.com/briggs599/briggs599#readme",
   "devDependencies": {
     "@octokit/graphql": "^5.0.5",
     "@types/node": "^18.11.18",
