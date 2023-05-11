@@ -64,9 +64,7 @@
 <table width="75%">
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-
-{% include youtube.html id="w5t8nvJX45Q" %}
-
+[![No Headset, No Problem: Building Social Gaming Experiences for Every Device](https://img.youtube.com/vi/w5t8nvJX45Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=w5t8nvJX45Q)
 </td>
 </tr>
 </table>
