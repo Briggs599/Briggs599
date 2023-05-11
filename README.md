@@ -1,4 +1,4 @@
-<h1> Hello World <h1>
+<h1> Welcome to Braden Riggs' GitHub <h1>
 
 <div id="social" align="center">
   <a href="https://www.linkedin.com/in/bradenriggs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@bradenriggs on LinkedIn"/></a>
@@ -12,7 +12,7 @@
   <a href="https://dev.to/bradenriggs" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="@bradenriggs on Dev.to"/></a>
 </div>
 
-# Gallery
+# Gallery (Please Click :point_down:)
 <div id="gallery">
 
 <div align="center">
@@ -35,15 +35,15 @@
 </div>
 
 # Learn
-<p>Read some of my most recent technical blog posts on <a href="https://dev.to/@briggs599">Dev.to</a>, <a href="https://medium.com/@briggs599">Medium</a>, and <a href="https://dolby.io/blog/author/jdela/">Dolby.io</a>.</p>
+<p>Read some of my most recent technical blog posts on <a href="https://dolby.io/blog/author/brigg/">Dolby.io</a>, <a href="https://medium.com/@briggs599">Medium</a>, and <a href="https://dev.to/@briggs599">Dev.to</a>.</p>
 <div id="writing" align="center">
 <table width="75%">
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-  <div align="center"><a href="https://dev.to/@briggs599" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s8dp3yJP--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pt8kvjbtnzcdqek816kb.jpg"/>
-  <p><b><a href="https://dev.to/dolbyio/a-low-latency-live-stream-react-app-53pj">A Low-Latency Live Stream React App</a></b></p>
-  <p>Original Article Published Here  When building a streaming app or platform it is important to......</p>
+  <div align="center"><a href="https://dolby.io/blog/author/brigg/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-0A0A0A?style=for-the-badge&logo=dolby&logoColor=white"/></a></div>
+  <img src="https://dolby.io/wp-content/uploads/2023/05/Dolby.io_PubNub-No-Headset-No-problem-Building-Social-Gaming-Experiences-for-Any-Device-1088x450-1.jpg"/>
+  <p><b><a href="https://dolby.io/blog/no-headset-no-problem-building-social-gaming-experiences-for-every-device/">No Headset, No Problem: Building Social Gaming Experiences for Every Device</a></b></p>
+  <p>Learn how Dolby.io and PubNub are powering in-game communication with immersive plugins for Unity and Unreal....</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://medium.com/@briggs599" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
@@ -52,10 +52,20 @@
   <p>With the Flutter 3 WebRTC streaming SDK you can build real-time streaming solutions for Android, iOS, Web, and Desktop from a single code…...</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-  <div align="center"><a href="https://dolby.io/blog/author/jdela/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-0A0A0A?style=for-the-badge&logo=dolby&logoColor=white"/></a></div>
-  <img src="https://dolby.io/wp-content/uploads/2023/05/Dolby.io_PubNub-No-Headset-No-problem-Building-Social-Gaming-Experiences-for-Any-Device-1088x450-1.jpg"/>
-  <p><b><a href="https://dolby.io/blog/no-headset-no-problem-building-social-gaming-experiences-for-every-device/">No Headset, No Problem: Building Social Gaming Experiences for Every Device</a></b></p>
-  <p>Learn how Dolby.io and PubNub are powering in-game communication with immersive plugins for Unity and Unreal....</p>
+  <div align="center"><a href="https://dev.to/@briggs599" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s8dp3yJP--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pt8kvjbtnzcdqek816kb.jpg"/>
+  <p><b><a href="https://dev.to/dolbyio/a-low-latency-live-stream-react-app-53pj">A Low-Latency Live Stream React App</a></b></p>
+  <p>Original Article Published Here  When building a streaming app or platform it is important to......</p>
+</td>
+</tr>
+</table>
+<p>Or learn about some of my favorite pieces of video content</p>
+<div align="center">
+<table width="75%">
+<tr>
+<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+  <div align="center"><a href="https://dolby.io/blog/author/brigg/" target="_blank"><img src="https://img.shields.io/badge/Dolby.io-0A0A0A?style=for-the-badge&logo=dolby&logoColor=white"/></a></div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/w5t8nvJX45Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </td>
 </tr>
 </table>
