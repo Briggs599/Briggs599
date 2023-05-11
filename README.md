@@ -12,7 +12,7 @@
   <a href="https://dev.to/bradenriggs" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="@bradenriggs on Dev.to"/></a>
 </div>
 
-# Gallery (Please Click :point_down:)
+## Gallery (Please Click :point_down:)
 <div id="gallery">
 
 <div align="center">
@@ -34,7 +34,7 @@
 
 </div>
 
-# Learn
+## Learn :mortar_board:
 <p>Read some of my most recent technical blog posts on <a href="https://dolby.io/blog/author/brigg/">Dolby.io</a>, <a href="https://medium.com/@briggs599">Medium</a>, and <a href="https://dev.to/@briggs599">Dev.to</a>.</p>
 <div id="writing" align="center">
 <table width="75%">
@@ -60,9 +60,8 @@
 </tr>
 </table>
 </div>
-[![No Headset, No Problem: Building Social Gaming Experiences for Every Device](https://img.youtube.com/vi/w5t8nvJX45Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=w5t8nvJX45Q)
 
-# Community
+## Community :computer:
 <div id="influence">
 <p>
 Thanks for your interest in my projects. If you have a question or feedback about any of my projects, use <a href="https://github.com/briggs599/briggs599/discussions">GitHub Discussions</a> and let me know what you think.
@@ -138,17 +137,15 @@ Follow me or star this repos to add yourself to the community and receive future
   <a href="https://github.com/briggs599/briggs599/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/briggs599/briggs599?label=Star&style=social"></a>
 </div>
 
-<div>&nbsp;</div>
-
-# Statistics
+## Statistics :chart_with_upwards_trend:
 <details>
   <summary>Statistics</summary>
   <div>&nbsp;</div>
   <div>
-    <p>Repos: 56</p>
-    <p>Followers: 7</p>
-    <p>Stargazers: 28</p>
-    <p>Supporters: 28</p>
-    <p>Unique Views (week): 1</p>
+    <p>Repos :open_file_folder:: 56</p>
+    <p>Followers :running:: 7</p>
+    <p>Stargazers :star2:: 28</p>
+    <p>Supporters :raising_hand:: 28</p>
+    <p>Unique Views (week) :eyes:: 1</p>
   </div>
 </details>
