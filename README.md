@@ -59,15 +59,8 @@
 </td>
 </tr>
 </table>
-<p>Or learn about some of my favorite pieces of video content:</p>
-<div align="center">
-<table width="75%">
-<tr>
-[![No Headset, No Problem: Building Social Gaming Experiences for Every Device](https://img.youtube.com/vi/w5t8nvJX45Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=w5t8nvJX45Q)
-</td>
-</tr>
-</table>
 </div>
+[![No Headset, No Problem: Building Social Gaming Experiences for Every Device](https://img.youtube.com/vi/w5t8nvJX45Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=w5t8nvJX45Q)
 
 # Community
 <div id="influence">
