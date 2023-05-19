@@ -47,9 +47,9 @@
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://medium.com/@briggs599" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a></div>
-  <img src="https://miro.medium.com/v2/resize:fit:1200/0*th7ks1MB1wyegPfn"/>
-  <p><b><a href="https://bdriggs.medium.com/building-a-real-time-streaming-app-with-webrtc-and-flutter-3-72a0c5ffeff0?source=rss-6b8dc7a69e8f------2">Building a Real-Time Streaming App with WebRTC and Flutter 3</a></b></p>
-  <p>With the Flutter 3 WebRTC streaming SDK you can build real-time streaming solutions for Android, iOS, Web, and Desktop from a single code…...</p>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*eINKle6Z1C7ddOKf"/>
+  <p><b><a href="https://medium.com/hacking-media/no-headset-no-problem-building-social-gaming-experiences-for-every-device-f008f3080686?source=rss-6b8dc7a69e8f------2">No Headset, No Problem: Building Social Gaming Experiences for Every Device</a></b></p>
+  <p>Learn how Dolby.io and PubNub are powering in-game communication with immersive plugins for Unity and Unreal....</p>
 </td>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
   <div align="center"><a href="https://dev.to/@briggs599" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a></div>
