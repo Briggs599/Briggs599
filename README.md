@@ -148,6 +148,6 @@ Follow me or star this repos to add yourself to the community and receive future
     <p>Followers :running:: 8</p>
     <p>Stargazers :star2:: 29</p>
     <p>Supporters :raising_hand:: 29</p>
-    <p>Unique Views (week) :eyes:: 3</p>
+    <p>Unique Views (week) :eyes:: 4</p>
   </div>
 </details>
